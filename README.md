@@ -11,6 +11,8 @@ $make
 $./imagetransform
 ```
 
+Image transform will create four files, out-grayscale.png, out-illinify.png, out-spotlight.png, and outwatermark.png in the root directory. These four files are examples of the image transform tools written in ImageTransform.cpp
+
 To test, run
 
 ```
